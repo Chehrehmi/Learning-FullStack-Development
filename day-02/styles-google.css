@@ -1,7 +1,8 @@
 .main{
      margin-top: 200px; 
-     text-align: center;
+
 }
+
 
 .logo-img{
     width: 300px;
@@ -25,13 +26,20 @@
    border-radius: 24px;
 }
 
+.button-wrapper{
+    display: flex;
+    justify-content: center;
+}
+
 .btn
 {  
     margin-top: 30px;
     background: #dfe1e5;
     display:  inline;
     font-weight: normal ;
-
+    
+    margin-left: 5px;  
+    margin-right:5px; 
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 15px;

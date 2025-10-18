@@ -48,7 +48,7 @@ My journey learning full-stack web development following the [freeCodeCamp x Scr
 
 - News article page
 - Google homepage clone
-- Personal portfolio website (deployed!)
+- Personal portfolio website
 
 **Video Progress:** Completed up to 01:35:49 (just before Flexbox section)
 
@@ -59,6 +59,49 @@ My journey learning full-stack web development following the [freeCodeCamp x Scr
 - The difference between inline and block-level elements
 - CSS class naming conventions
 - Deploying websites using Netlify
+
+---
+
+### Day 2 - October 18, 2025 (Saturday)
+
+**Time Spent:** ~1 hour  
+**Topics Covered:**
+
+- **Flexbox Fundamentals**
+
+  - Understanding flexbox containers and children
+  - Display flex property
+  - Justify-content property (center, start, end, space-around, space-between)
+  - Main axis and cross axis concepts
+  - Flexbox vs traditional block layouts
+  - Practical flexbox applications in real-world websites (Twitter, navigation bars, etc.)
+
+- **Advanced CSS Centering**
+  - Centering elements using flexbox
+  - Combining flexbox with margin for spacing
+  - Creating responsive navigation bars
+  - Button wrapper containers
+
+**Projects Completed:**
+
+- E-commerce navigation menu (vertical to horizontal layout)
+- Completed Google homepage with centered buttons using flexbox
+
+**Video Progress:** 02:12:05 - 02:20:59 (Completed Flexbox introduction and Google Clone recap)
+
+**Key Learnings:**
+
+- Flexbox is the professional way to create layouts and is used everywhere in modern web development
+- The power of `display: flex` to override default block behavior
+- How to use `justify-content` to control element positioning along the main axis
+- The importance of wrapper divs in flexbox layouts
+- Three different methods of centering in CSS (block + margin auto, flexbox, and inline positioning)
+
+**Challenges Solved:**
+
+- ✅ Centered two buttons using flexbox
+- ✅ Added proper spacing between flexbox items
+- ✅ Created horizontal navigation bar from vertical layout
 
 ---
 
@@ -75,6 +118,7 @@ My journey learning full-stack web development following the [freeCodeCamp x Scr
 
 Learning-FullStack-Development/
 ├── day-01/
+├── day-02/
 └── README.md
 
 ## 🔗 Resources
@@ -88,7 +132,18 @@ Learning-FullStack-Development/
 - Taking a hands-on approach by coding along with every lesson
 - Building muscle memory through practice
 - Not skipping challenges - solving them independently before checking solutions
+- Flexbox is everywhere in modern web development - mastering it is essential!
 
 ---
 
-**Last Updated:** October 17, 2025
+## 📊 Progress Summary
+
+- **Total Time Invested:** ~4 hours 15 minutes
+- **Days Active:** 2
+- **Sections Completed:** HTML & CSS Basics, Intro to CSS, Flexbox Fundamentals
+- **Projects Built:** 5+
+- **Next Up:** Building a Business Card project
+
+---
+
+**Last Updated:** October 18, 2025
